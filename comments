@@ -1,0 +1,9 @@
+Hallo Julia, 
+
+Du hast die Aufgabe super gelöst! 
+Die Datentypen wurden sinnvoll gesetzt, die Fremdschlüssel richtig vergeben und die Primary-Keys richtig gesetzt.
+Das einzige was mir aufgefallen ist, ist dass wir eine falsche Abhängigkeit drinnen haben. 
+Die Funktion vom Helfer hängt nicht nur vom Namen des Helfers sondern vom Helfer und der Veranstaltung ab. 
+Wenn du die Funktion als Attribut bei der helfer_veranstaltungsliste hinzufügst, dann kann der Helfer einmal als Ordner und einmal als Schiedsrichter eingesetzt werden. 
+
+Ansonsten super!
